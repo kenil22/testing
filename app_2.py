@@ -14,3 +14,7 @@ a = 4
 b = 9
 c = b-a
 print(c)
+
+a = 9
+b = 9
+d = a+b
